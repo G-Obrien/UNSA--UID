@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+    background-color: rgb(69, 69, 160);
+   
+}
+body{
+     padding-top: 10%;
+     padding-left: 40%;
+}
+img{
+    width: 20%;
+}
+form{
+    font-family: Stonehenge;
+    color: blanchedalmond;
+    font-size: 90%;
+    border: 2px solid white;
+    width: 28%;
+    padding: 3%;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.137)
+}
+input{
+    background-color: rgba(34, 33, 33, 0.801);
+    color: blanchedalmond;
+    width: 90%;
+    border-radius: 10px;
+    height: 20px;
+}
+.btn-lon{
+width: 40%;
+background-color: rgb(219, 55, 55);
+height: 23px;
+}
+.cancel-btn{
+width: 90%;
+background-color: rgb(219, 148, 55);
+height: 25px;
+color: blanchedalmond;
+}
+a{
+    text-decoration: none;
+    color: azure;
+    font-size: 18px;
+}
